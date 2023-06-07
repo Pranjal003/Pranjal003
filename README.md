@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate MERN stack developer, a problem solving enthusiast, and a Machine learning model designer</h3>
 
