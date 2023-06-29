@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate MERN stack developer, a problem solving enthusiast, and a Machine learning model designer</h3>
 
-- 🔭 I’m currently working on **E-Dashboard Project**
+- 🔭 I’m currently working on **Travel Companion Project**
 
 - 🌱 I’m currently learning **Machine learning model building**
 
