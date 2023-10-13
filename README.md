@@ -1,9 +1,6 @@
-<!-- 
 
-<img   height= "300"  src="https://github.com/Pranjal003/Pranjal003/assets/92199952/ca1bb134-2c22-40d1-afcf-2cb8013aa4f2" />
+<img src="https://github.com/Pranjal003/Pranjal003/assets/92199952/9eb8dc39-4e99-41e1-90aa-6c943cf0e1d2" />
 
-<img   height= "300"  src="https://github.com/Pranjal003/Pranjal003/assets/92199952/dabecc59-9f12-4be0-9112-12493047af53" />
- -->
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
 <h3 align="center">A passionate MERN stack developer, a problem solving enthusiast, and a Machine learning model designer</h3>
 
