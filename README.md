@@ -1,4 +1,3 @@
-
 <img src="https://github.com/Pranjal003/Pranjal003/assets/92199952/9eb8dc39-4e99-41e1-90aa-6c943cf0e1d2" />
 
 <h1 align="center">Hi 👋, I'm Pranjal Sharma</h1>
